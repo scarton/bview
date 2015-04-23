@@ -7,3 +7,6 @@ By: Anonymous
 
 How do we appreciate
 how much that dog ate?
+
+MultiEdit Test:
+This is Change #2 to be committed.

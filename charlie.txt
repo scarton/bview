@@ -13,6 +13,9 @@ Even just one breath away from him.
 MultiEdit Test:
 This is Change #1 to be committed.
 
+MultiEdit Test:
+This is Change #3 to be committed.
+
 by: Steve Carton
 reviewed by Dave Petersen
 
